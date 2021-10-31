@@ -8,16 +8,16 @@ for k,v in zip(keys,values):
 
 print(my_dict)
 
-# Exercise 2 : Cinemax #2
+# Exercise 2
 
 family = {"rick": 43, 'beth': 13, 'morty': 5, 'summer': 8}
 
-# family={}
-# for num in range(0,3):
-#     person = input('Enter a name')
-#     age = int(input(f'Enter the age of {person}'))
-#     family[person]=age
-# print(family)
+ family={}
+ for num in range(0,3):
+    person = input('Enter a name')
+     age = int(input(f'Enter the age of {person}'))
+     family[person]=age
+ print(family)
 
 total_cost = 0
 for person, age in family.items():
