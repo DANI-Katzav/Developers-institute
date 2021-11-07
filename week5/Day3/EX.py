@@ -18,7 +18,7 @@
 # object1.__abs__()
 # object1.__int__()
 #
-# Exercise 2: Currencies
+#Exercise 2: Currencies
 
 class Currency:
     def __init__(self, currency, amount):
