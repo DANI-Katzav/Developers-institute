@@ -12,12 +12,12 @@
 -- -- INSERT 
 -- insert into students(first_name, last_name,birth_date)
 -- values ('Marc','Benichou','1998-11-02'),
--- ('Yoan', 'Cohen', '2010-12-03'),
--- ('Lea', 'Benichou', '1987-07-27'),
--- ('Amelia', 'Dux', '1996-04-07'),
--- ('David', 'Grez', '2003-06-14'),
--- ('Omer', 'Simpson', '1980-10-03'),
--- ('Yona', 'David','1994-03-27')
+-- ('David', 'Cohen', '1998-05-03'),
+-- ('Leo', 'Slomon', '2000-03-27'),
+-- ('Haim', 'Kkanikovo', '1978-02-07'),
+-- ('Gregory', 'Grez', '1995-06-14'),
+-- ('Tal', 'Horev', '1980-10-03'),
+-- ('Danielle', 'Dakatzavvid','1993-02-27')
 
 
 -- -- SELECT 

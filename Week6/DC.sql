@@ -11,7 +11,7 @@
 -- )
 
 -- INSERT INTO actors (first_name, last_name, age, number_oscars)
--- VALUES('Matt','Damon','08/10/1970', 5),('George','Clooney','06/05/1961', 2)
+-- VALUES('Dana','Mel','08/10/14970', 5),('nom','nom','06/08/1965', 2)
 
 -- In this exercise we will be using the actors table from todays lesson.
 -- 1. Count how many actors are in the table.
