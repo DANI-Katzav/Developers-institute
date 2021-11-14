@@ -6,7 +6,7 @@
 # price int);
 #
 # insert into items(name,price)
-# values('none',0),('Computer',3000),('Pen', 15), ('Leptop', 5000) ('Disk',450), ('Printer', 850),;
+# values('none',0),('Computer',3000),('Pen', 15), ('Leptop', 5000) ('Disk',450), ('Printer', 850);
 #
 # create table orders (
 # order_id serial primary key,
