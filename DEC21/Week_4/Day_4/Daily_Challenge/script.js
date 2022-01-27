@@ -1,7 +1,7 @@
 // / 99 Bottles of Beer?
 
 // Prompt the user for a number to begin counting down bottles.
-let number = parseInt(prompt("Enter a number"));
+let number = parseInt(prompt("Enter a number of bottles"));
 
 // In the song everytime a bottle falls we subtract the bottles by 1.
 
