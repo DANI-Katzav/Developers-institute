@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0beb8825-a2a6-4d30-a9df-7f5d6f0feac8" name="Changes" comment="1.2">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/CSS Padding-Margin.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_1/Captain-America.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_1/daily_challenge/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_1/daily_challenge/pic1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_1/daily_challenge/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_2/ex1/EX1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_2/ex1/The domestic cat.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_2/ex1/home-cat.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_2/lanading_page/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_3/style/pexels-pixabay-417344.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_3/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_4/loginpage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/products.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/New folder/Day_5/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/API.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/Encapsulation, Polymorphism, &amp; More.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/Json.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/Sequences list tuple.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/class and objects.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/ex.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/modules.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/oop day 1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/oop day 1.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/python/py file.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/HTML1.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day1/css/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day1/css/page2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day1/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day1/dany.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day1/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day2/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day2/cssstyle.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day2/resume.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day3/EX1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week1/day3/page 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/.vscode/settings.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/daY2/JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/daY2/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/daY2/ez2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/daY2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/day1/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/day1/JS.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/day1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/day1/page 1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/day3/2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week2/day3/pageone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY1/dailyc/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY1/dailyc/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY1/ex1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY1/js1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/EX/JS2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/EX/ex3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/EX/ex3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/EX/xp.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/class.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/class/1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/class/JS1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/daily/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/daily/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY2/daily/script.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/XP/XP1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/XP/css2.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/XP/ex1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/XP/ex2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/XP/script2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/class.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/class.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/class_drag.drop.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/dailychallange/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/dailychallange/script.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/DAY3/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week3/day4/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day4/GOLD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day4/daily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day4/ninga1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day4/xp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day5/DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day5/ex.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/Day5/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day2/25.10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day2/DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day2/XP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day2/class/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day2/class1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day2/class2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day3/class/Review Data Types.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day3/class/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day3/class/class2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day3/class/class3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day3/xp/daily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week4/day3/xp/xp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day1/Daily.c.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day1/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day1/ninja.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day1/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day1/xp.4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day2/DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day2/EX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day2/xp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day2/xp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/#Characters Game.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/DC1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/DC2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/EX.gold.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/EX.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/EX2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/class/DC-AVI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week5/Day3/class/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day1/DC.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day1/xp.1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day1/xp.2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day1/xp.gold.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day2/DC.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day2/gold.xp.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day2/ninja.XP.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day2/xp1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day2/xp2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day3/DC.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day3/xp.1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day3/xp.2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day4/daily..py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OCT21/week6/Day4/xp.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="24WBWDvbT9enuyGXTUiQLaKTSgt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/OCT21" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/OCT21" />
+  </component>
+  <component name="RunManager" selected="Python.daily_challenge">
+    <configuration name="bonus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_6/Day_2/bonus.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="daily_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_6/Day_2/daily_challenge.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.daily_challenge" />
+        <item itemvalue="Python.bonus" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0beb8825-a2a6-4d30-a9df-7f5d6f0feac8" name="Changes" comment="" />
+      <created>1643736494060</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1643736494060</updated>
+      <workItem from="1643736495975" duration="1128000" />
+    </task>
+    <task id="LOCAL‎00001" summary="1.2">
+      <created>1643737398451</created>
+      <option name="number" value="LOCAL‎00001" />
+      <option name="presentableId" value="LOCAL‎00001" />
+      <updated>1643737398451</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+    <option name="exactExcludedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/OCT21/week3/DAY2/daily/script.js" />
+      </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1.2" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Developers_institute$daily_challenge.coverage" NAME="daily_challenge Coverage Results" MODIFIED="1643737210698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
+    <SUITE FILE_PATH="coverage/Developers_institute$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1643737070291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
+  </component>
+</project>
