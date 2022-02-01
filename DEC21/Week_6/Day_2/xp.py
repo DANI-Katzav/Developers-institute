@@ -1,7 +1,7 @@
-#ex1
 
 
-from _typeshed import IdentityFunction
+
+#1
 
 
 print('hello world ' * 4)
@@ -40,7 +40,7 @@ b = 4
 if a>b:
     print('Hello world')
 
-ex7:
+#ex7:
 number = int(input("Enter a number"))
 if number%2 == 0:
     print('This number is even')
@@ -52,8 +52,8 @@ else:
 name_user = input('Enter you name').lower()
 
 if  name_user == 'Danielle':
-    print('Dnielle is an Angel ')
-else:
+    print('Danielle is an Angel ')
+
 
 #ex9
 
