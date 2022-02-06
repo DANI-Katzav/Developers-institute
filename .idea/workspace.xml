@@ -4,7 +4,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cb331409-3c1a-482c-bd8f-d1f098796610" name="Changes" comment="Merge remote-tracking branch 'original/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <list default="true" id="0beb8825-a2a6-4d30-a9df-7f5d6f0feac8" name="Changes" comment="1.2">
+<<<<<<<<< Temporary merge branch 1
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_6/Day_2/xp.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_2/xp.py" afterDir="false" />
+=========
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/XP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/class1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/class2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_5/daily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_5/xp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/DC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/XP.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/class1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/class2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCT21/week4/day3/xp/daily.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/OCT21/week4/day3/xp/xp.py" beforeDir="false" />
+>>>>>>>>> Temporary merge branch 2
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +46,10 @@
   </component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="ProjectErrors" />
+<<<<<<<<< Temporary merge branch 1
+=========
     <option name="showToolbar" value="false" />
+>>>>>>>>> Temporary merge branch 2
   </component>
   <component name="ProjectId" id="24WBWDvbT9enuyGXTUiQLaKTSgt" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -47,6 +70,9 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/OCT21" />
   </component>
+<<<<<<<<< Temporary merge branch 1
+  <component name="RunManager" selected="Python.xp">
+=========
   <component name="RunManager" selected="Python.daily">
     <configuration name="DC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
@@ -70,6 +96,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+>>>>>>>>> Temporary merge branch 2
     <configuration name="bonus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,8 +187,11 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<<<< Temporary merge branch 1
+=========
         <item itemvalue="Python.daily" />
         <item itemvalue="Python.DC" />
+>>>>>>>>> Temporary merge branch 2
         <item itemvalue="Python.xp" />
         <item itemvalue="Python.daily_challenge" />
         <item itemvalue="Python.bonus" />
@@ -177,8 +207,12 @@
       <option name="presentableId" value="Default" />
       <updated>1643736494060</updated>
       <workItem from="1643736495975" duration="1957000" />
+<<<<<<<<< Temporary merge branch 1
+      <workItem from="1643738493185" duration="153000" />
+=========
       <workItem from="1643738493185" duration="851000" />
       <workItem from="1643739369486" duration="1689000" />
+>>>>>>>>> Temporary merge branch 2
     </task>
     <task id="LOCAL‎00001" summary="1.2">
       <created>1643737398451</created>
@@ -192,19 +226,17 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1643737775844</updated>
     </task>
+<<<<<<<<< Temporary merge branch 1
+    <option name="localTasksCounter" value="3" />
+=========
     <task id="LOCAL‎00003" summary="1.2">
       <created>1643738698701</created>
       <option name="number" value="LOCAL‎00003" />
       <option name="presentableId" value="LOCAL‎00003" />
       <updated>1643738698702</updated>
     </task>
-    <task id="LOCAL‎00004" summary="Merge remote-tracking branch 'original/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1644164523085</created>
-      <option name="number" value="LOCAL‎00004" />
-      <option name="presentableId" value="LOCAL‎00004" />
-      <updated>1644164523085</updated>
-    </task>
-    <option name="localTasksCounter" value="5" />
+    <option name="localTasksCounter" value="4" />
+>>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -228,14 +260,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.2" />
-    <MESSAGE value="Merge remote-tracking branch 'original/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'original/main'&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Developers_institute$DC.coverage" NAME="DC Coverage Results" MODIFIED="1644163714156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCT21/week4/day2" />
     <SUITE FILE_PATH="coverage/Developers_institute$daily_challenge.coverage" NAME="daily_challenge Coverage Results" MODIFIED="1643737210698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
+<<<<<<<<< Temporary merge branch 1
+    <SUITE FILE_PATH="coverage/Developers_institute$xp.coverage" NAME="xp Coverage Results" MODIFIED="1643738173635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
+=========
     <SUITE FILE_PATH="coverage/Developers_institute$xp.coverage" NAME="xp Coverage Results" MODIFIED="1644163683591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
     <SUITE FILE_PATH="coverage/Developers_institute$daily.coverage" NAME="daily Coverage Results" MODIFIED="1644164018346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCT21/week4/day3/xp" />
+>>>>>>>>> Temporary merge branch 2
     <SUITE FILE_PATH="coverage/Developers_institute$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1643737070291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
   </component>
 </project>
