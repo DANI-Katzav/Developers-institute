@@ -26,22 +26,22 @@ def random_number(number):
 random_number(10)
 
 # Exercise 5 : Let’s Create Some Personalized Shirts !
-# def make_shirt(size, message):
-#     print(f'The size of the shirt is {size} and the message is {message}')
+def make_shirt(size, message):
+    print(f'The size of the shirt is {size} and the message is {message}')
 
-# make_shirt('L',"Hello")
+make_shirt('S',"Hello")
 
-# def make_shirt(size='L', message='I love Python'):
-#     print(f'The size of the shirt is {size} and the message is {message}')
+def make_shirt(size='S', message='I love Python'):
+    print(f'The size of the shirt is {size} and the message is {message}')
 
-# make_shirt()
-# make_shirt("M")
-# make_shirt('L',"Hello")
+make_shirt()
+make_shirt("S")
+make_shirt('XS',"Hello")
 
 def make_shirt(**kwargs):
     for key,value in kwargs.items():
         print(key,":",value)
-make_shirt(size='L',message="Hello")
+make_shirt(size='S',message="Hello")
 
 # Exercise 6 : Magicians …
 magician = ["leo","Tom","Ricky"]
