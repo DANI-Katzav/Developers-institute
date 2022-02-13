@@ -1,0 +1,115 @@
+
+   
+@import url("https://fonts.googleapis.com/css?family=Raleway");
+
+html,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+a {
+  font-family: "Raleway";
+}
+
+#intro-example {
+  background-position: center !important ;
+  background-size: cover !important;
+  height: 100vh !important;
+
+  background: rgb(255, 255, 255);
+  background: linear-gradient(
+    210deg,
+    rgba(255, 255, 255, 1) 10%,
+    rgba(0, 0, 0, 0.908000700280112) 30%
+  );
+  margin-top:15vh;
+}
+
+.evening_lights {
+  background: black; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #ffffff,
+    #093257
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #ffffff,
+    #005aa7
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.container_grid {
+  display: grid;
+  margin: auto;
+
+  grid-template-columns: 1.5fr 1.5fr 1.2fr;
+  grid-template-rows: 0.5fr 0.5fr 0.5fr 0.8fr 1fr 0.3fr ;
+  grid-gap: 10px 5px;
+  /* height: 80vh; */
+  width: 100%;
+  grid-template-areas:
+    "hero main main"
+    "bar main main"
+    "bar extra extra"
+    "pro pro post"
+    "contact contact contact"
+    "footer footer footer";
+}
+
+#developer_icon{
+    height: 50px;
+    border-radius: 15% 15%;
+}
+
+.part {
+  text-align: center;
+  font-size: 1.25em;
+  padding: 10px;
+}
+
+.hero {
+  grid-area: hero;
+}
+.main {
+  grid-area: main;
+}
+.sidebar {
+  grid-area: bar;
+}
+.extra {
+  grid-area: extra;
+}
+.protfolio {
+  grid-area: pro;
+}
+.post {
+  grid-area: post;
+}
+.footer {
+  grid-area: footer;
+}
+.contacTy {
+    grid-area:contact;
+}
+#projects img {width:20vw;}
+@media all and (max-width: 1024px) {
+  .change_sm {
+    display: flex;
+    flex-direction: column;
+    
+  }
+  .sm{
+    width:100vh;
+    align-self: center;
+  }
+  #projects img {width:80vw;}
+}
+
+
+
+/* .part{
+    border: 1px solid black;
+} */
