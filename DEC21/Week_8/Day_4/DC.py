@@ -1,5 +1,3 @@
-import random
-
 class Gene:
     def __init__(self):
         self.state = random.randint(0,1)
