@@ -1,42 +1,42 @@
+#run this file, first menu option, can add p, s, x
+# and for game, type "rock", "paper", 'scissor'
 from GAME import Game
+
+a = {"win": 0, "draw": 0, "loss": 0}
 
 
 def get_user_menu_choice():
-    print('''
-    Menu
-
-    1. Play a new game
-    2. Show Scores
-    x. Quit
-    ''')
-
-    while True:
-        ans = input('Enter your choice  ')
-        if ans not in '12xX':
-            print('You answer is not correct')
-        else:
-            return ans
+    user_menu_choice = input("""
+    MENU:
+    p-> Play a New Game
+    s-> Show scores
+    x-> Quit    
+    """)
+    if user_menu_choice == "p" or user_menu_choice == "s" or user_menu_choice == "x":
+        return user_menu_choice
+    else:
+        print("Enter either of p, s or x ")
+        return get_user_menu_choice()
 
 
-def print_results(results):
-    print(f'''
-    Game Results:
-        You won {results['win']} times
-        You lost {results['loss']} times
-        You drew {results['draw']} times''')
+def print_results():
+    print("The score is: ", a)
 
 
 def main():
     while True:
-        user_choice = get_user_menu_choice()
-        if user_choice == '1':
-            play_game = Game()
-            play_game.play()
-        elif user_choice == '2':
-            print_results(play_game.results)
+        user_menu_choice = get_user_menu_choice()
+        if user_menu_choice == "p":
+            result = Game().play()
+            if result in a:
+                a[result] += 1
+            print_results()
+        elif user_menu_choice == "s":
+            print_results()
+        elif user_menu_choice == "x":
+            print_results()
+            exit()
         else:
-            print('Goodbye')
-            break
-
+            print("Incorrect Input, please try again ")
 
 main()

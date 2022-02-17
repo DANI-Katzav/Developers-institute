@@ -2,72 +2,41 @@ import random
 
 
 class Game:
-    user_selected = ''
-    computer_select = ''
-    results = {'win': 0, 'loss': 0, 'draw': 0}
+    def __init__(self):
+        pass
 
     def get_user_item(self):
-        while True:
-            print('''
-            Options:
-            r : rock
-            p : paper
-            s : scissors
-            ''')
-
-            self.user_selected = input('Enter your choice ')
-            if self.user_selected in 'rR':
-                self.user_selected = 'rock'
-                return self.user_selected
-            elif self.user_selected in 'pP':
-                self.user_selected = 'paper'
-                return self.user_selected
-            elif self.user_selected in 'sS':
-                self.user_selected = 'scissors'
-                return self.user_selected
-            else:
-                print('You answer is not valid')
+        self.user_item = input("""
+        Select your weapon:
+        rock
+        paper
+        scissor
+        """)
+        if self.user_item == "rock" or self.user_item == "paper" or self.user_item == "scissor":
+            return self.user_item
+        else:
+            print("Enter either of these 'rock', 'paper' or 'scissor' ")
+            return self.get_user_item()
 
     def get_computer_item(self):
-        self.computer_select = random.choice(['rock', 'paper', 'scissors'])
-        return self.computer_select
+        self.computer_item = random.choice(["rock", "paper", "scissor"])
+        return self.computer_item
 
     def get_game_result(self, user_item, computer_item):
-        if user_item == 'rock':
-            if computer_item == 'paper':
-                self.results['loss'] += 1
-                return 'loss'
-            elif computer_item == 'scissors':
-                self.results['win'] += 1
-                return 'win'
-            else:
-                self.results['draw'] += 1
-                return 'draw'
-        elif user_item == 'paper':
-            if computer_item == 'paper':
-                self.results['draw'] += 1
-                return 'draw'
-            elif computer_item == 'scissors':
-                self.results['loss'] += 1
-                return 'loss'
-            else:
-                self.results['win'] += 1
-                return 'win'
+        if user_item == "rock" and computer_item == "scissor":
+            return "win"
+        elif user_item == "scissor" and computer_item == "paper":
+            return "win"
+        elif user_item == "paper" and computer_item == "rock":
+            return "win"
+        elif user_item == computer_item:
+            return "draw"
         else:
-            if computer_item == 'paper':
-                self.results['win'] += 1
-                return 'win'
-            elif computer_item == 'rock':
-                self.results['loss'] += 1
-                return 'loss'
-            else:
-                self.results['draw'] += 1
-                return 'draw'
+            return "loss"
 
     def play(self):
-        user = self.get_user_item()
-        computer = self.get_computer_item()
-        print(f'''
-        You selected : {user}
-        The computer selected: {computer}
-        The result: {self.get_game_result(user, computer)}''')
+        user_item=self.get_user_item()
+        computer_item=self.get_computer_item()
+        result=self.get_game_result(user_item,computer_item)
+        print(f"You selected '{user_item.upper()}', computer selected '{computer_item.upper()}', the result is '{result.upper()}'")
+        return
