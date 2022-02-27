@@ -1,29 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="0beb8825-a2a6-4d30-a9df-7f5d6f0feac8" name="Changes" comment="1.2">
-<<<<<<<<< Temporary merge branch 1
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/Daily_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/Xp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_2/XP/XP_ninja.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_4/Daily_challenge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_4/XP_GOLD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_4/Xp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_5/Mini_project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_5/daily_challenge_air_management.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Developers-institute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Developers-institute.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_6/Day_2/xp.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_2/xp.py" afterDir="false" />
-=========
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/DC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/XP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/class1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_4/class2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_5/daily.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_6/Day_5/xp.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/DC.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/XP.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/class1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCT21/week4/day2/class2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCT21/week4/day3/xp/daily.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/OCT21/week4/day3/xp/xp.py" beforeDir="false" />
->>>>>>>>> Temporary merge branch 2
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_9/EX.gold.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/EX.gold.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_9/EX2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/EX2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,26 +27,16 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitSEFilterConfiguration">
-    <file-type-list>
-      <filtered-out-file-type name="LOCAL_BRANCH" />
-      <filtered-out-file-type name="REMOTE_BRANCH" />
-      <filtered-out-file-type name="TAG" />
-      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
-    </file-type-list>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DEC21/Week_10/Day_1/Test.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
-<<<<<<<<< Temporary merge branch 1
-=========
-    <option name="showToolbar" value="false" />
->>>>>>>>> Temporary merge branch 2
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
-  <component name="ProjectId" id="24WBWDvbT9enuyGXTUiQLaKTSgt" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="25hjqD6Yj9TtacKwTLhqPHw1Qaz" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -60,183 +44,23 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="ToolWindowProblems.ShowToolbar" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/OCT21" />
-    <property name="node.js.detected.package.eslint" value="true" />
-    <property name="node.js.detected.package.tslint" value="true" />
-    <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="two.files.diff.last.used.folder" value="$PROJECT_DIR$/OCT21" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
-<<<<<<<<< Temporary merge branch 1
-  <component name="RunManager" selected="Python.xp">
-=========
-  <component name="RunManager" selected="Python.daily">
-    <configuration name="DC" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Developers-institute" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCT21/week4/day2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCT21/week4/day2/DC.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
->>>>>>>>> Temporary merge branch 2
-    <configuration name="bonus" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Developers-institute" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_6/Day_2/bonus.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="daily" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Developers-institute" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OCT21/week4/day3/xp" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OCT21/week4/day3/xp/daily.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="daily_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Developers-institute" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_6/Day_2/daily_challenge.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="xp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Developers-institute" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_6/Day_2/xp.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <recent_temporary>
-      <list>
-<<<<<<<<< Temporary merge branch 1
-=========
-        <item itemvalue="Python.daily" />
-        <item itemvalue="Python.DC" />
->>>>>>>>> Temporary merge branch 2
-        <item itemvalue="Python.xp" />
-        <item itemvalue="Python.daily_challenge" />
-        <item itemvalue="Python.bonus" />
-      </list>
-    </recent_temporary>
+  <component name="ReadonlyStatusHandler">
+    <option name="SHOW_DIALOG" value="false" />
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="0beb8825-a2a6-4d30-a9df-7f5d6f0feac8" name="Changes" comment="" />
-      <created>1643736494060</created>
+      <changelist id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="" />
+      <created>1645985685860</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1643736494060</updated>
-      <workItem from="1643736495975" duration="1957000" />
-<<<<<<<<< Temporary merge branch 1
-      <workItem from="1643738493185" duration="153000" />
-=========
-      <workItem from="1643738493185" duration="851000" />
-      <workItem from="1643739369486" duration="1689000" />
->>>>>>>>> Temporary merge branch 2
+      <updated>1645985685860</updated>
+      <workItem from="1645985692609" duration="532000" />
+      <workItem from="1645986408978" duration="478000" />
     </task>
-    <task id="LOCAL‎00001" summary="1.2">
-      <created>1643737398451</created>
-      <option name="number" value="LOCAL‎00001" />
-      <option name="presentableId" value="LOCAL‎00001" />
-      <updated>1643737398451</updated>
-    </task>
-    <task id="LOCAL‎00002" summary="1.2">
-      <created>1643737775844</created>
-      <option name="number" value="LOCAL‎00002" />
-      <option name="presentableId" value="LOCAL‎00002" />
-      <updated>1643737775844</updated>
-    </task>
-<<<<<<<<< Temporary merge branch 1
-    <option name="localTasksCounter" value="3" />
-=========
-    <task id="LOCAL‎00003" summary="1.2">
-      <created>1643738698701</created>
-      <option name="number" value="LOCAL‎00003" />
-      <option name="presentableId" value="LOCAL‎00003" />
-      <updated>1643738698702</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
->>>>>>>>> Temporary merge branch 2
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -246,31 +70,5 @@
         <option value="$PROJECT_DIR$/OCT21/week3/DAY2/daily/script.js" />
       </list>
     </option>
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State />
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.2" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.2" />
-  </component>
-  <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Developers_institute$DC.coverage" NAME="DC Coverage Results" MODIFIED="1644163714156" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCT21/week4/day2" />
-    <SUITE FILE_PATH="coverage/Developers_institute$daily_challenge.coverage" NAME="daily_challenge Coverage Results" MODIFIED="1643737210698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
-<<<<<<<<< Temporary merge branch 1
-    <SUITE FILE_PATH="coverage/Developers_institute$xp.coverage" NAME="xp Coverage Results" MODIFIED="1643738173635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
-=========
-    <SUITE FILE_PATH="coverage/Developers_institute$xp.coverage" NAME="xp Coverage Results" MODIFIED="1644163683591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
-    <SUITE FILE_PATH="coverage/Developers_institute$daily.coverage" NAME="daily Coverage Results" MODIFIED="1644164018346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OCT21/week4/day3/xp" />
->>>>>>>>> Temporary merge branch 2
-    <SUITE FILE_PATH="coverage/Developers_institute$bonus.coverage" NAME="bonus Coverage Results" MODIFIED="1643737070291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_6/Day_2" />
   </component>
 </project>

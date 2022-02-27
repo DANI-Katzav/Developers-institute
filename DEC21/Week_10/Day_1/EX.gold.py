@@ -34,19 +34,19 @@ class Password:
 
     def check_validity(self):
         password = input('Enter your password ')
-        if re.search('[0-9]', password)==None:
+        if re.search('[0-9]', password) is None:
             print('Password has to contain at least 1 digit')
             return self.check_validity()
         elif len(password)<6 or len(password)>30:
             print('Length of the password has to be between 6 and 30 characters')
             return self.check_validity()
-        elif re.search('[a-z]', password)==None:
+        elif re.search('[a-z]', password) is None:
             print('Password has to contain at least 1 lower-case character')
             return self.check_validity()
-        elif re.search('[A-Z]', password)==None:
+        elif re.search('[A-Z]', password) is None:
             print('Password has to contain at least 1 upper-case character')
             return self.check_validity()
-        elif re.search("[$&+,:;=?@#|'<>.^*()%!-]", password)==None:
+        elif re.search("[$&+,:;=?@#|'<>.^*()%!-]", password) is None:
             print('Password has to contain at least 1 special character')
             return self.check_validity()
         else:
