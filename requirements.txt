@@ -1,7 +1,0 @@
-pip~=21.1.2
-wheel~=0.36.2
-setuptools~=57.0.0
-Faker~=13.2.0
-tabulate~=0.8.9
-translator~=0.0.9
-operators~=1.0.1

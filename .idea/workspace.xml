@@ -1,33 +1,47 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/Daily_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/Test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/Xp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_2/XP/XP_ninja.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_4/Daily_challenge.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_4/XP_GOLD.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_4/Xp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_5/Mini_project.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_9/Day_5/daily_challenge_air_management.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Developers-institute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Developers-institute.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/API.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/Import/import.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/class.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/index.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/XP_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/bootstrap_intro_index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/random sentence generator.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/the_stranger.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/DC.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/anagram_checker.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/anagrams.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/hello.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_9/EX.gold.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/EX.gold.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_9/EX2.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_1/EX2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DEC21/Week_10/Day_1/Test.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -37,6 +51,9 @@
     <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectId" id="25hjqD6Yj9TtacKwTLhqPHw1Qaz" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -45,10 +62,69 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
+  </component>
+  <component name="PyCoverageOptionsProvider">
+    <option name="myUseBundledCoveragePy" value="true" />
   </component>
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.API">
+    <configuration name="API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_10/Day_3/API.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_10/Day_3/index.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.API" />
+        <item itemvalue="Python.index" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -59,7 +135,8 @@
       <option name="presentableId" value="Default" />
       <updated>1645985685860</updated>
       <workItem from="1645985692609" duration="532000" />
-      <workItem from="1645986408978" duration="478000" />
+      <workItem from="1645986408978" duration="1296000" />
+      <workItem from="1646150692857" duration="3436000" />
     </task>
     <servers />
   </component>
@@ -70,5 +147,20 @@
         <option value="$PROJECT_DIR$/OCT21/week3/DAY2/daily/script.js" />
       </list>
     </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Test_py$index.coverage" NAME="index Coverage Results" MODIFIED="1646151642669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+    <SUITE FILE_PATH="coverage/Test_py$API.coverage" NAME="API Coverage Results" MODIFIED="1646153575636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
   </component>
 </project>
