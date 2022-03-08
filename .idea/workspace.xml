@@ -5,25 +5,548 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/API.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/Import/import.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/class.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_3/index.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/DC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/XP_json.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/bootstrap_intro_index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/random sentence generator.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_4/the_stranger.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/DC.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/anagram_checker.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/anagrams.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_10/Day_5/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/webResources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/DC/lesson1/exercises.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/DC/lesson1/in-this-chapter.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/DC/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/00-Command-Line/Mac_and_Linux.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/00-Command-Line/Windows.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part10_AssessmentTwo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part1_html_basics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part2_basic_tagging.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part3_html_lists.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part4_divs_spans.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part5_html_attributes.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part6_HTML_AssessmentOne.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part7_Forms_Basics.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part8_Forms_Labels.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/Part9_Forms_Selections.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/puppy_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/01-HTML-Crash-Course/static/puppy_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/CSS_Assessment.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/CSS_Assessment.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/CSS_Assessment_Solutions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part1_master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part2_master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part3_master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part4_Inspect_Elements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part5_Fonts.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/02-CSS/Part5_Fonts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Boostrap_Project_Solutions/Boostrap_solution_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Boostrap_Project_Solutions/Bootstrap_solution_signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Bootstrap_Project_Main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Bootstrap_Project_Signup.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Part1_Buttons.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Part2_Forms.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/00-HTML-CSS-Bootstrap/03-Bootstrap4/Part3_Navbar.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/00-Numbers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/01-Strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/02-Lists.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/03-Dictionaries.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/04-Tuples_Sets_Booleans.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/05-Exercise_Review.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/06-Exercise_Review_SOLUTIONS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/07-Comparison-Logical_Operators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/08-if-elif-else.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/09-Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/10-Functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/11-Function-Tasks.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_One/12-Function-Tasks-Solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/00-Scope.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/01-Object_Oriented_Programming.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/02-OOP_Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/03-OOP_Project_SOLUTIONS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/04-Decorators.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/05-Modules_and_Packages/mymodule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/05-Modules_and_Packages/myprogram.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/06-Name_and_Main/Explanation.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/06-Name_and_Main/one.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/01-Python/Python_Level_Two/06-Name_and_Main/two.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/00-Hello_Puppy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/01-Basic-Routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/02-Dynamic-Routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/03-Debug-Mode.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/04-Request-Contexts-Basics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/05-Routing_Exercise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/02-Flask-Basics/06-Routing-Exercise-Solution.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/00-Basic-Template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/01-Template-Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/02-Template-Filters.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/03-Template-Control-Flow.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/04-Template-Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/05-URL-For-Help.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/06-Form-Example.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/07-Simple-Project-Solutions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/07-Simple-Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/static/puppy_pic.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/00-Basic-Template.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/01-Template-Variables.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/02-Template-Filters.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/03-Template-Control-Flow.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/04-Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/04-Puppy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/04-base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/05-Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/05-Puppy.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/05-base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/06-404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/06-Sign-up.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/06-base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/06-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/06-thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/07-Simple-Project-Description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/07-solution-base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/07-solution-index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/03-Template-Basics/templates/07-solution-report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/00-Basic-Flask-Form.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/01-Form-Fields.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/02-Flashing-Messages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/03-Forms-and-Flash-Project.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/templates/00-home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/templates/01-home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/templates/01-thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/templates/02-home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/04-Forms/templates/03-home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/00-Model-and-CRUD-Basics/BasicCRUD.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/00-Model-and-CRUD-Basics/BasicModelApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/00-Model-and-CRUD-Basics/SetUpDatabase.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/00-Model-and-CRUD-Basics/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/00_migrations_instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/01_migration_examples.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/BasicModelApp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/migrations/versions/823b7933359c_added_breed.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/01-Flask-Migrate/migrations/versions/fad2dc5de130_first_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/migrations/versions/46c89c673828_tables_created.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/02-Relationships/populate_database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/adoption_site.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/migrations/versions/877e9996b751_created_puppy_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/03-Databases-in-Views/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Database-Project-Instructions.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/adoption_site.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/migrations/versions/877e9996b751_created_puppy_db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/migrations/versions/8f6e7f7089ae_added_owners.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/templates/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/templates/add_owner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/templates/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/05-Databases/04-Project-Solutions/templates/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/00-structure-example.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/frozen-requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/migrations/versions/37b7351e06a1_adding_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/owners/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/owners/templates/owners/add_owner.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/owners/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/puppies/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/puppies/templates/puppies/add.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/puppies/templates/puppies/delete.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/puppies/templates/puppies/list.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/puppies/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/06-Larger-Flask-Applications/01-Using-Blueprints/myproject/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/00-Password-Hashing/Using-Bcrypt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/00-Password-Hashing/Using-Werkzeug.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/migrations/versions/79ed9538a4ad_created_tables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/01-Flask-Login/myproject/templates/welcome_user.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/02-Using-Flask-OAuth/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/02-Using-Flask-OAuth/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/07-User-Authentication/02-Using-Flask-OAuth/templates/welcome.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/01-Basic-Setup/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/02-Core-Views-and-Templates/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/03-Error-Pages/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/04-Models-Setup/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/05-Users-Forms/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/06-Users-Views-pt1/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/07-Users-Views-pt2/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/templates/user_blog_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/08-User-Blog-Posts-Template/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/migrations/versions/a339aa2e1e97_first_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/static/profile_pics/default_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/static/profile_pics/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/templates/user_blog_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/09-Running-Site-Test/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/migrations/versions/a339aa2e1e97_first_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/static/profile_pics/default_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/static/profile_pics/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/templates/user_blog_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/10-Blog-Posts-Forms/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/migrations/versions/a339aa2e1e97_first_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/static/profile_pics/default_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/static/profile_pics/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/blog_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/templates/user_blog_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/11-Blog-Posts-Views/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/migrations/versions/a339aa2e1e97_first_migration.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/static/profile_pics/default_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/static/profile_pics/four.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/blog_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/templates/user_blog_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/12-Blog-Posts-Templates/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/migrations/versions/c83a14b1b9a0_initial_setup.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/blog_posts/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/blog_posts/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/blog_posts/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/core/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/core/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/error_pages/handlers.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/static/master.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/static/master.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/static/profile_pics/default_profile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/static/profile_pics/five.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/static/profile_pics/super1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/static/profile_pics/three.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/account.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/blog_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/create_post.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/error_pages/403.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/error_pages/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/info.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/register.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/templates/user_blog_posts.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/users/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/users/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/users/picture_handler.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/puppycompanyblog/users/views.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/08-Social-Blog-Project/Final_Project/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/00-Simple-API/simpleapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/01-Basic-CRUD-API/crudapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/02-REST-API-Authorization/auth_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/02-REST-API-Authorization/secure_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/02-REST-API-Authorization/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/data.sqlite" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/migrations/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/migrations/versions/dd9f9188880c_first.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/secure_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/09-REST-APIs-with-Flask/03-REST-API-Database/user.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/10-Accepting-Payments-with-Flask/00-Payments/payme.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/10-Accepting-Payments-with-Flask/00-Payments/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/10-Accepting-Payments-with-Flask/00-Payments/templates/thankyou.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/Flask-Bootcamp-master/Flask-Bootcamp-master/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/pyblog/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/pyblog/flask_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/xp/XP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_2/xp/templates/Danielle_CV.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC/templates/Home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/developers-institute.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/developers-institute/developers-institute/views/main_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/templates/greetings.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/templates/homepage.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/templates/product_details.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/templates/products.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/xp2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Developers-institute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Developers-institute.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dani.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dani.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,15 +557,43 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
+  <component name="FlaskConsoleOptions" custom-start-script="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))">
+    <envs>
+      <env key="FLASK_APP" value="app" />
+    </envs>
+    <option name="myCustomStartScript" value="import sys&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo&#10;locals().update(ScriptInfo(create_app=None).load_app().make_shell_context())&#10;print(&quot;Python %s on %s\nApp: %s [%s]\nInstance: %s&quot; % (sys.version, sys.platform, app.import_name, app.env, app.instance_path))" />
+    <option name="myEnvs">
+      <map>
+        <entry key="FLASK_APP" value="app" />
+      </map>
+    </option>
+  </component>
   <component name="Git.Settings">
+    <favorite-branches>
+      <branch-storage>
+        <map>
+          <entry type="REMOTE">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$" source="original/main" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </favorite-branches>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DEC21/Week_10/Day_1/Test.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db.json" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/xp2.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -59,9 +610,13 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db.json" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -74,8 +629,23 @@
   <component name="ReadonlyStatusHandler">
     <option name="SHOW_DIALOG" value="false" />
   </component>
-  <component name="RunManager" selected="Python.API">
-    <configuration name="API" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_4" />
+      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_4\product_db" />
+      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_2\xp" />
+      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_2\DC\lesson1" />
+      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_2\DC" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.XP (1)">
+    <configuration name="Danielle_CV.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_2/xp/templates/Danielle_CV.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_4/DC/templates/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="XP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -83,12 +653,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_10/Day_3/API.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +667,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="index" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="XP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -105,12 +675,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_10/Day_3/index.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db/XP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC/main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,8 +713,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.API" />
-        <item itemvalue="Python.index" />
+        <item itemvalue="Python.XP (1)" />
+        <item itemvalue="Python.main" />
+        <item itemvalue="JavaScript Debug.Home.html" />
+        <item itemvalue="Python.XP" />
+        <item itemvalue="JavaScript Debug.Danielle_CV.html" />
       </list>
     </recent_temporary>
   </component>
@@ -137,6 +732,8 @@
       <workItem from="1645985692609" duration="532000" />
       <workItem from="1645986408978" duration="1296000" />
       <workItem from="1646150692857" duration="3436000" />
+      <workItem from="1646756194703" duration="6642000" />
+      <workItem from="1646765933297" duration="1465000" />
     </task>
     <servers />
   </component>
@@ -153,14 +750,32 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="original/main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Test_py$index.coverage" NAME="index Coverage Results" MODIFIED="1646151642669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
-    <SUITE FILE_PATH="coverage/Test_py$API.coverage" NAME="API Coverage Results" MODIFIED="1646153575636" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+    <SUITE FILE_PATH="coverage/Test_py$Home_html.dat" NAME="Home.html Coverage Results" MODIFIED="1646767360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/Test_py$API.coverage" NAME="API Coverage Results" MODIFIED="1646759007360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+    <SUITE FILE_PATH="coverage/Test_py$XP.coverage" NAME="XP Coverage Results" MODIFIED="1646764942081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db" />
+    <SUITE FILE_PATH="coverage/Test_py$app.coverage" NAME="app Coverage Results" MODIFIED="1646762722438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_2/pyblog" />
   </component>
 </project>
