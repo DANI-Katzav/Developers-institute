@@ -1,19 +1,27 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Products</title>
-    <link rel="stylesheet"  href="{{ url_for('static',filename='img' )}}">
-</head>
-<body>
-<h2>Here is our list of products:</h2>
-    <uL>
-        {% for product in info %}
-        <li>
-            {{product['Name']}}- ID: {{product['ProductId']}}
-            <button><a href={{url_for('prod_details', product_id=product['ProductId'])}}>Check product</a></button>
-        </li>
-        {% end-for %}
-    </uL>
-</body>
-</html>
+{% extends "base.html" %}
+
+{% block content %}
+
+
+<style>
+    body{
+        text-align: center;
+    }
+    h1{
+        padding: 20px;
+
+    }
+</style>
+<h1>Availables Products</h1><br><br>
+
+
+{% for p in data %}
+    <div>
+        <!-- <img src="static/img/{{ image }}" width ="50", height="50"> -->
+        <h3>{{p['Name']}}---ID : {{p['ProductId']}}</h3>
+        <a href="{{ url_for ('prodid', idn = p['ProductId']) }}">See more</a><br><br><br><br>
+
+    </div>
+{%endfor%}
+
+{%endblock%}

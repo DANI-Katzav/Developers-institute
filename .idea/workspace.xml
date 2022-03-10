@@ -5,151 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="Week 11">
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Daily_Challenge/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Daily_Challenge/templates/home.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Daily_Challenge/templates/pokemon.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Daily_Challenge/templates/type.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/DS_Store" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/1.15-logitech-harmony-express.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/10.Best-Webcam-Featured-Image.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/100.58d8c5f5e4b075d06220ccaf-1280x7201mar292017172220poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/101.Backyard-EOS.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/102.camera-for-youtube.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/103.D1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/104.IPCorder_NVR_with_cameras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/105.webcams-lowres-615.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/106.how-to-view-multiple-security-cameras-on-a-tv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/107.rat-fake-webcam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/108.turn-your-android-phone-into-universal-remote-control-with-these-cool-apps.w1456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/109.unifi-protect-bundle-1-1-670x335.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/11.logitech-c310-original-imaeztzqny7jh7gh.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/110.panasonic_aw-ue150_best_4k_hdr_live_production_streaming_ptz_pan_tilt_zoom_remote_robotic_camera-11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/111.Best-cameras-for-livestreaming_Thumb.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/112.Annke-1080p-IPCam-300x300.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/113.dvr-iphone-remote-viewing-apps.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/114.5b63ba8460b2ed54a1c6a404-1280x7201aug03201835736poster.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/115.818oBWOUB3L._SL1500_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/116.51OVR1sYOlL._SX355_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/117.best-tv-for-rv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/118.maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/119.14276267.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/12.5477500_sd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/120.iphone11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/121.644585-fire-tv-stick-4k-with-alexa-voice-remote.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/122.hero.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/123.Hive-View_Best-security-cameras_trans%2B%2BqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/124.xbox-one-x-comparisons-01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/125.e9907e47.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/126.webcams-lowres-922.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/127.1-96.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/128.9999300000000395_sd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/129.Sony-PlayStation-3-Eye.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/13.webcams-lowres-2-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/130.slide-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/14.Webcam000c1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/15.webcams-lowres-920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/16.Best-smart-security-cameras_review_summary_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/17.KV02_M03A_D.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/18.61o1lNe0bxL._SX466_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/19.1200px-Siri_Remote_and_old_Apple_Remote.JPG" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/2.Logitech-BRIO-4K-Webcam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/20.universalremotes-top-2x1-fullres-7075-1024x512.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/21.GTHgpEHkmp5QWCpBnWTC9F-480-80.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/22.homepage_tc_montage_reflection_2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/23.meetup-conference-cam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/24.1200px-LG_Smart_TV_web_browser.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/25.5707058_sd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/26.maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/27.quantum-qhmpl-495lm-latest-original-imaezdfzffmecawz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/28.maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/29.Install-a-Hidden-Camera-Step-21-Version-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/3.webcams-2x1-fullres--1024x512.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/30.Best-cameras-for-livestreaming_Main.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/31.506187-toshiba-fire-tv-edition.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/32.briopictograms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/33.cr-electronics-inline-tv-privacy-0218_0799757d2f95ff27d3f84980362e60b2.fit-760w.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/34.65_x900f_cw_with_logos-100775916-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/35.32-lg-oled-tv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/36.629738-use-your-airpods-with-an-apple-tv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/37.1200px-LEI0440_Leica_IIIf_chrom_-_Sn._580566_1951-52-M39_Blitzsynchron_front_view-6531_hf-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/38.how-to-connect-cctv-camera-to-a-tv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/39.TTT.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/4.Microsoft-LifeCam-HD-3000-Webcam.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/40.maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/41.mh_d-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/42.7e6e7a15-5004-4421-b4c3-29ad9a18a961.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/43.600964-the-best-tvs-for-gaming.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/44.qn75q90rafxza_004_l-perspective_silver_ns_02-100808696-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/45.61JswtCfvuL._SR500,500_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/46.security-camera-roundup-pic-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/47.610230-24-hidden-roku-tips-for-streaming-success.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/48.at8fquefj7ocziavaxzr.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/49.GettyImages-95467436-5bc4c9d74cedfd005147ec2c.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/5.Logitech-Conference-Cam-BCC950.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/50.maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/51.Adobe-Lightroom.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/52.Logitech-HD-Pro-Webcam-C920.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/53.logitech-harmony-650-crop2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/54.room-2559790_960_720-900x450.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/55.Best-Wireless-Computer-Monitor-and-TV-Setups.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/56.mjsxj02cm-xiaomi-original-imaf9h23qvtypbez.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/57.top_features_1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/58.23xp-zuckerberg-articleLarge.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/59.Samsung-Remote-Access_main_F.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/6.81ofIx%2BQNeL._SL1500_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/60.rocosoft-ptzjoy-pro-ptz-controller-pc-800x544.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/61.3a7c7f43.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/62.Lorex_digital_wireless_camera.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/63.61EcOnxm9jL._SY450_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/64.canary-all-in-one-lifestyle.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/65.wireless-hdmi-video-transmitter-2x1-lowres-2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/66.large06-1-1024x680.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/67.echoshowhero-100770451-large.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/68.Fire-TV-Security-Camera-Feed.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/69.5947832_sd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/7.712xpaJPT6L._SY355_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/70.lg-c8-oled-tv_7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/71.pc-webcam-vector-300x253.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/72.528654-wyze-cam-pan.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/73.Amazon-Fire-TV-vs-Chromecast_thumb1200_4-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/74.05Samsung_F5500_35757117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/75.616Nh%2BR-EnL._SX355_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/76.MiZuhWRUoNXZRQcnZjEJbd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/77.Top-10-Best-Selling-IP-Cameras-in-India-.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/78.thum_a-quick-how-to-on-connecting-devices-to-qled-tv.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/79.What-is-the-Best-Android-TV-Box-USB-Camera-CAM.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/8.434376-amazon-fire-tv-stick-with-alexa-remote.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/80.best-vlogging-cameras.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/81.razer-kiyo-3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/82.ps4-streaming-thumb-510x0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/83.setienne_180717_2745_0005.0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/84.Video-For-you_0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/85.best-smart-home-gadgets-indybest.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/86.maxresdefault.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/87.e0ded23e.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/88.jbareham_180726_2773_0025_03.0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/89.6301667_sd.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/9.wifisecuritycameras-2x1-0176-1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/90.c310-hd-webcam-refresh.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/91.logi-meetup-tv-mount.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/92.Logitech-HD-Laptop-Webcam-C615.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/93.best_4k_TVs_summary_trans_NvBQzQNjv4BqqVzuuqpFlyLIwiB6NTmJwfSVWeZ_vEN7c6bHu2jJnT8.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/94.518286-how-to-take-a-screenshot-on-any-device.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/95.61acy0ewBlL._SR500,500_.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/96.05Samsung_F5500_35757117.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/97.briopictograms.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/98.turn-your-android-phone-into-universal-remote-control-with-these-cool-apps.w1456.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/img/img/99.v380_camera_720p_01_700x700.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/product_data.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/products.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/cart.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/prod_details.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/product.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Developers-institute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Developers-institute.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/product_db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/python.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/tempCodeRunnerFile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/base.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/login.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/productdetail.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/testform.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/app.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/products.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/products_data.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/cart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/prod_details.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/product.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -199,9 +71,7 @@
     <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/index.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/xp2.py" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/cart.html" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/prod_details.html" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/product.html" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -246,8 +116,11 @@
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_2\DC" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.product.html">
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_4/DC/templates/Home.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="product.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/product.html" useBuiltInWebServerPort="true">
@@ -267,28 +140,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="XP" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Developers-institute" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db/XP.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -321,11 +172,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.product.html" />
         <item itemvalue="Python.XP (1)" />
         <item itemvalue="Python.main" />
         <item itemvalue="JavaScript Debug.Home.html" />
-        <item itemvalue="Python.XP" />
       </list>
     </recent_temporary>
   </component>
@@ -344,6 +195,9 @@
       <workItem from="1646765933297" duration="1465000" />
       <workItem from="1646767716520" duration="384000" />
       <workItem from="1646929175882" duration="1437000" />
+      <workItem from="1646930907523" duration="55000" />
+      <workItem from="1646931208683" duration="1381000" />
+      <workItem from="1646933247833" duration="738000" />
     </task>
     <task id="LOCAL‎00001" summary="Week 11">
       <created>1646767939392</created>

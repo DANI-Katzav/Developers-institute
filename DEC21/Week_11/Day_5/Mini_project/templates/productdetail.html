@@ -1,0 +1,31 @@
+{% extends "base.html" %} {% block content %}
+
+<br><br><br>
+<h1>Products N° {{idn}}</h1><br>
+
+
+<h2>{{name}}</h2><br><br>
+<h2>Supplier : {{brand}}</h2><br>
+<h2>Type : {{catego}}</h2><br>
+
+
+<p>{{right}}</p><br><br>
+
+
+<p>Status : {{status}}</p>
+<p>Quantity Avilable : {{quantity}}</p>
+<p>Price : {{price}}$</p><br><br>
+
+<a href="{{url_for('add', id= idn) }}">Add to the Shopping Cart</a><br><br><br>
+
+
+
+<!-- {% for p in data %}
+    
+<div>
+    <p>{{p["Description"]}}</p>
+</div>
+{%endfor%} -->
+
+
+{%endblock%}
