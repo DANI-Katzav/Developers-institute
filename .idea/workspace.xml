@@ -5,23 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="Week 11">
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/product_db.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/python.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/tempCodeRunnerFile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/productdetail.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/testform.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/templates/cv-form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/templates/cv.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/templates/cv.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/DailyChallenge/wsgi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP/DS_Store" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP/app/templates/add-city.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_4/XP/Daily_challenge/Daily_challenge.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_4/XP/xp/sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_12/Day_4/migrations/alembic.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/app.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/products.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/products_data.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/cart.html" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/cart.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/prod_details.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_11/Day_5/Mini_project/templates/product.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -116,10 +115,7 @@
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_11\Day_2\DC" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html">
-    <configuration name="Home.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_4/DC/templates/Home.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.config">
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -140,6 +136,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP/config.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.config" />
         <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.product.html" />
         <item itemvalue="Python.XP (1)" />
         <item itemvalue="Python.main" />
-        <item itemvalue="JavaScript Debug.Home.html" />
       </list>
     </recent_temporary>
   </component>
@@ -198,6 +216,9 @@
       <workItem from="1646930907523" duration="55000" />
       <workItem from="1646931208683" duration="1381000" />
       <workItem from="1646933247833" duration="738000" />
+      <workItem from="1646934127683" duration="146000" />
+      <workItem from="1647535724694" duration="528000" />
+      <workItem from="1647536289646" duration="1782000" />
     </task>
     <task id="LOCAL‎00001" summary="Week 11">
       <created>1646767939392</created>
@@ -250,6 +271,7 @@
     <SUITE FILE_PATH="coverage/Test_py$main.coverage" NAME="main Coverage Results" MODIFIED="1646767729974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC" />
     <SUITE FILE_PATH="coverage/Test_py$API.coverage" NAME="API Coverage Results" MODIFIED="1646759007360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
     <SUITE FILE_PATH="coverage/Test_py$XP__1_.coverage" NAME="XP (1) Coverage Results" MODIFIED="1646767741879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp" />
+    <SUITE FILE_PATH="coverage/Test_py$config.coverage" NAME="config Coverage Results" MODIFIED="1647536375737" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP" />
     <SUITE FILE_PATH="coverage/Test_py$XP.coverage" NAME="XP Coverage Results" MODIFIED="1646764942081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db" />
     <SUITE FILE_PATH="coverage/Test_py$app.coverage" NAME="app Coverage Results" MODIFIED="1646762722438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_2/pyblog" />
   </component>
