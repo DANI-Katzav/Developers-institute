@@ -5,25 +5,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="Merge remote-tracking branch 'original/main'">
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/error_handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/phone_numbers.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/404_error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/number.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/person.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/serch_person.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/serch_phone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/forms.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/models.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/routes.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/schedule.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/templates/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations/alembic.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations/env.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations/script.py.mako" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations/versions/cf57cb5ed6a0_.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations/versions/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Developers-institute.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Developers-institute.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/Dani.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/Dani.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_13/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/__init__.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,8 +31,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -96,12 +94,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Hackthon/project_2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
   <component name="PyCoverageOptionsProvider">
     <option name="myUseBundledCoveragePy" value="true" />
@@ -118,13 +116,7 @@
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_13\Day_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="product.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/product.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.scratch">
     <configuration name="XP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -169,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="env" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,12 +169,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP/config.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations/env.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app/models.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="scratch" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$APPLICATION_CONFIG_DIR$/scratches" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$APPLICATION_CONFIG_DIR$/scratches/scratch.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="wsgi" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/wsgi.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,15 +251,18 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.scratch" />
+        <item itemvalue="Python.env" />
+        <item itemvalue="Python.models" />
+        <item itemvalue="Python.wsgi" />
         <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.config" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.product.html" />
-        <item itemvalue="Python.XP (1)" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="" />
@@ -223,7 +284,12 @@
       <workItem from="1647535724694" duration="528000" />
       <workItem from="1647536289646" duration="1782000" />
       <workItem from="1648640432650" duration="4598000" />
-      <workItem from="1648645547443" duration="470000" />
+      <workItem from="1648645547443" duration="2236000" />
+      <workItem from="1648840234795" duration="358000" />
+      <workItem from="1648842293939" duration="83000" />
+      <workItem from="1648915073976" duration="1740000" />
+      <workItem from="1648916942061" duration="325000" />
+      <workItem from="1648917446452" duration="318000" />
     </task>
     <task id="LOCAL‎00001" summary="Week 11">
       <created>1646767939392</created>
@@ -237,7 +303,13 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1648644734561</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="week13">
+      <created>1648646315883</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1648646315883</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,18 +346,34 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Week 11" />
+    <MESSAGE value="week13" />
     <MESSAGE value="Merge remote-tracking branch 'original/main'" />
     <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'original/main'" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Test_py$index.coverage" NAME="index Coverage Results" MODIFIED="1646151642669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
-    <SUITE FILE_PATH="coverage/Test_py$Home_html.dat" NAME="Home.html Coverage Results" MODIFIED="1646767360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/routes_py$env.coverage" NAME="env Coverage Results" MODIFIED="1648916738759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations" />
     <SUITE FILE_PATH="coverage/Test_py$main.coverage" NAME="main Coverage Results" MODIFIED="1646767729974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC" />
+    <SUITE FILE_PATH="coverage/routes_py$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1648917190873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Test_py$API.coverage" NAME="API Coverage Results" MODIFIED="1646759007360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
     <SUITE FILE_PATH="coverage/Test_py$XP__1_.coverage" NAME="XP (1) Coverage Results" MODIFIED="1646767741879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp" />
     <SUITE FILE_PATH="coverage/Test_py$config.coverage" NAME="config Coverage Results" MODIFIED="1648640970556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP" />
     <SUITE FILE_PATH="coverage/Test_py$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1648641300181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/app" />
     <SUITE FILE_PATH="coverage/Test_py$XP.coverage" NAME="XP Coverage Results" MODIFIED="1646764942081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db" />
+    <SUITE FILE_PATH="coverage/Test_py$index.coverage" NAME="index Coverage Results" MODIFIED="1646151642669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+    <SUITE FILE_PATH="coverage/Test_py$Home_html.dat" NAME="Home.html Coverage Results" MODIFIED="1646767360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/routes_py$wsgi.coverage" NAME="wsgi Coverage Results" MODIFIED="1648915441800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO" />
+    <SUITE FILE_PATH="coverage/routes_py$models.coverage" NAME="models Coverage Results" MODIFIED="1648915716756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app" />
     <SUITE FILE_PATH="coverage/Test_py$app.coverage" NAME="app Coverage Results" MODIFIED="1646762722438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_2/pyblog" />
   </component>
 </project>
