@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+    <div>
+        <a href="{{ url_for('index') }}">Home</a>
+<!--        {% if current_user.is_anonymous %}-->
+        <a href="{{ url_for('signin') }}">Sign In</a>
+<!--        {% else %}-->
+        <a href="{{ url_for('logout') }}">Logout</a>
+<!--        {% endif %}-->
+    </div>
+</body>
+</html>

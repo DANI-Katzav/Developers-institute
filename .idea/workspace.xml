@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="Merge remote-tracking branch 'original/main'">
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/error_handlers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/phone_numbers.db" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/404_error.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/number.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/person.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/serch_person.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/app/templates/serch_phone.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/Week_13/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/DEC21/Week_13/Day_4/Daily_Challenge/wsgi.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DEC21/__init__.py" beforeDir="false" />
-    </list>
+    <list default="true" id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="week15" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,6 +43,7 @@
         </map>
       </branch-storage>
     </favorite-branches>
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
@@ -96,12 +77,12 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db.json" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.tabs" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
   </component>
   <component name="PyCoverageOptionsProvider">
     <option name="myUseBundledCoveragePy" value="true" />
@@ -111,21 +92,15 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_15\Day_2\Project\app\film" />
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_13\Day_2\Mini_project\.idea" />
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_13\Day_2\Mini_project\app" />
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_13\Day_2\Mini_project\app\templates" />
       <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_13\Day_2\Mini_project" />
-      <recent name="C:\Users\user\OneDrive\Dekstop-Danielle-2\Dekstop\Developers-institute\DEC21\Week_13\Day_4" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.__init__">
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="product.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Test.py/DEC21/Week_11/Day_5/Mini_project/templates/product.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="XP (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2048_GUI_PythonGeeks">
+    <configuration name="2048_GUI_PythonGeeks" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,12 +108,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Final_Project" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp/XP.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Final_Project/2048_GUI_PythonGeeks.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -169,7 +144,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="config" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Developers-institute" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -177,12 +152,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Hackthon/Hackthon/Hackthon2" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Hackthon/Hackthon/Hackthon2/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="forms" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DEC21/Week_15/Day_2/Project/app/film" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP/config.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DEC21/Week_15/Day_2/Project/app/film/forms.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/QR" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/QR/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="validators" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Developers-institute" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/wtforms" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/wtforms/validators.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -193,15 +234,18 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.__init__" />
-        <item itemvalue="Python.config" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.product.html" />
-        <item itemvalue="Python.XP (1)" />
+        <item itemvalue="Python.2048_GUI_PythonGeeks" />
+        <item itemvalue="Python.forms" />
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.validators" />
+        <item itemvalue="Python.test" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="df3ea841-e585-41d2-a7df-3a729a7ac522" name="Changes" comment="" />
@@ -223,7 +267,16 @@
       <workItem from="1647535724694" duration="528000" />
       <workItem from="1647536289646" duration="1782000" />
       <workItem from="1648640432650" duration="4598000" />
-      <workItem from="1648645547443" duration="470000" />
+      <workItem from="1648645547443" duration="2236000" />
+      <workItem from="1648840234795" duration="358000" />
+      <workItem from="1648842293939" duration="83000" />
+      <workItem from="1648915073976" duration="1740000" />
+      <workItem from="1648916942061" duration="325000" />
+      <workItem from="1648917446452" duration="1118000" />
+      <workItem from="1648983484851" duration="4822000" />
+      <workItem from="1650364403129" duration="114000" />
+      <workItem from="1650364553155" duration="1341000" />
+      <workItem from="1653457373915" duration="2561000" />
     </task>
     <task id="LOCAL‎00001" summary="Week 11">
       <created>1646767939392</created>
@@ -237,7 +290,31 @@
       <option name="presentableId" value="LOCAL‎00002" />
       <updated>1648644734561</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL‎00003" summary="week13">
+      <created>1648646315883</created>
+      <option name="number" value="LOCAL‎00003" />
+      <option name="presentableId" value="LOCAL‎00003" />
+      <updated>1648646315883</updated>
+    </task>
+    <task id="LOCAL‎00004" summary="2.4">
+      <created>1648917804114</created>
+      <option name="number" value="LOCAL‎00004" />
+      <option name="presentableId" value="LOCAL‎00004" />
+      <updated>1648917804114</updated>
+    </task>
+    <task id="LOCAL‎00005" summary="week15">
+      <created>1653459846231</created>
+      <option name="number" value="LOCAL‎00005" />
+      <option name="presentableId" value="LOCAL‎00005" />
+      <updated>1653459846231</updated>
+    </task>
+    <task id="LOCAL‎00006" summary="week15">
+      <created>1653459888258</created>
+      <option name="number" value="LOCAL‎00006" />
+      <option name="presentableId" value="LOCAL‎00006" />
+      <updated>1653459888258</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,18 +351,41 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Week 11" />
+    <MESSAGE value="week13" />
     <MESSAGE value="Merge remote-tracking branch 'original/main'" />
-    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'original/main'" />
+    <MESSAGE value="2.4" />
+    <MESSAGE value="week15" />
+    <option name="LAST_COMMIT_MESSAGE" value="week15" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Test_py$index.coverage" NAME="index Coverage Results" MODIFIED="1646151642669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
-    <SUITE FILE_PATH="coverage/Test_py$Home_html.dat" NAME="Home.html Coverage Results" MODIFIED="1646767360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/routes_py$env.coverage" NAME="env Coverage Results" MODIFIED="1648916738759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/migrations" />
+    <SUITE FILE_PATH="coverage/test_py$forms.coverage" NAME="forms Coverage Results" MODIFIED="1650364652196" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_15/Day_2/Project/app/film" />
     <SUITE FILE_PATH="coverage/Test_py$main.coverage" NAME="main Coverage Results" MODIFIED="1646767729974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/DC" />
+    <SUITE FILE_PATH="coverage/routes_py$scratch.coverage" NAME="scratch Coverage Results" MODIFIED="1648917190873" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$APPLICATION_CONFIG_DIR$/scratches" />
     <SUITE FILE_PATH="coverage/Test_py$API.coverage" NAME="API Coverage Results" MODIFIED="1646759007360" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
     <SUITE FILE_PATH="coverage/Test_py$XP__1_.coverage" NAME="XP (1) Coverage Results" MODIFIED="1646767741879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/xp" />
     <SUITE FILE_PATH="coverage/Test_py$config.coverage" NAME="config Coverage Results" MODIFIED="1648640970556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_12/Day_2/ExercisesXP" />
     <SUITE FILE_PATH="coverage/Test_py$__init__.coverage" NAME="__init__ Coverage Results" MODIFIED="1648641300181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/PycharmProjects/pythonProject/venv/Lib/site-packages/app" />
+    <SUITE FILE_PATH="coverage/test_py$test.coverage" NAME="test Coverage Results" MODIFIED="1648987941678" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/QR" />
     <SUITE FILE_PATH="coverage/Test_py$XP.coverage" NAME="XP Coverage Results" MODIFIED="1646764942081" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_4/product_db" />
+    <SUITE FILE_PATH="coverage/Test_py$index.coverage" NAME="index Coverage Results" MODIFIED="1646151642669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_10/Day_3" />
+    <SUITE FILE_PATH="coverage/Test_py$Home_html.dat" NAME="Home.html Coverage Results" MODIFIED="1646767360029" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+    <SUITE FILE_PATH="coverage/routes_py$wsgi.coverage" NAME="wsgi Coverage Results" MODIFIED="1648915441800" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO" />
+    <SUITE FILE_PATH="coverage/test_py$2048_GUI_PythonGeeks.coverage" NAME="2048_GUI_PythonGeeks Coverage Results" MODIFIED="1653458452699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Final_Project" />
+    <SUITE FILE_PATH="coverage/test_py$app.coverage" NAME="app Coverage Results" MODIFIED="1648989695831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Hackthon/Hackthon/Hackthon2" />
+    <SUITE FILE_PATH="coverage/routes_py$app.coverage" NAME="app Coverage Results" MODIFIED="1648918522362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../Hackthon/Hackthon/Hackthon2" />
+    <SUITE FILE_PATH="coverage/routes_py$models.coverage" NAME="models Coverage Results" MODIFIED="1648915716756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_13/Day_5/TODO/app" />
     <SUITE FILE_PATH="coverage/Test_py$app.coverage" NAME="app Coverage Results" MODIFIED="1646762722438" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/DEC21/Week_11/Day_2/pyblog" />
   </component>
 </project>
