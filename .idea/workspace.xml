@@ -45,6 +45,7 @@
     </favorite-branches>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/DEC21/Week_10/Day_4/XP.py" root0="FORCE_HIGHLIGHTING" />
@@ -242,6 +243,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="ShelveChangesManager" show_recycled="true" />
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="project-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\user\AppData\Roaming\Subversion</configuration>
@@ -278,6 +280,7 @@
       <workItem from="1650364553155" duration="1341000" />
       <workItem from="1653457373915" duration="2561000" />
       <workItem from="1653459977944" duration="717000" />
+      <workItem from="1653472021421" duration="58000" />
     </task>
     <task id="LOCAL‎00001" summary="Week 11">
       <created>1646767939392</created>
@@ -327,7 +330,13 @@
       <option name="presentableId" value="LOCAL‎00008" />
       <updated>1653460072443</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL‎00009" summary="week15">
+      <created>1653471629976</created>
+      <option name="number" value="LOCAL‎00009" />
+      <option name="presentableId" value="LOCAL‎00009" />
+      <updated>1653471629976</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
